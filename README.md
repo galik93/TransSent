@@ -1,5 +1,5 @@
 # TransSent - Sentiment Analysis on Movie Reviews using Transformers and Fine-Tuning.
-- This project is a text classification model that uses Transformers to analyze the sentiment (positive, negative, or neutral) in movie reviews.
+This project is a text classification model that uses Transformers to analyze the sentiment (positive, negative, or neutral) in movie reviews.
 
 ## Objective
 The goal of this project is to build a model that can accurately classify movie reviews into their respective sentiment categories. This will be achieved by fine-tuning a pre-trained transformer model on the Large Movie Review Dataset.
